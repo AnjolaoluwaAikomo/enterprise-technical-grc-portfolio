@@ -1,0 +1,5 @@
+review_id,system_id,review_period,owner_st_id,completed_at,reviewed_accounts,exceptions_noted,signoff_record
+AR-001,SYS-07,2026-Q3,ST-04,2026-09-25T14:00:00-04:00,85,1,SIGN-001
+AR-002,SYS-08,2026-Q3,ST-04,2026-09-27T15:00:00-04:00,85,0,SIGN-002
+AR-003,SYS-09,2026-Q3,ST-08,,28,1,
+AR-004,SYS-10,2026-Q3,ST-08,2026-09-29T10:00:00-04:00,36,0,SIGN-004

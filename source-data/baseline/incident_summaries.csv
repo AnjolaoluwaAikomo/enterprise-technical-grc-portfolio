@@ -1,0 +1,3 @@
+incident_id,opened_at,closed_at,system_id,severity,summary,containment,root_cause_status,customer_impact,postmortem_ref
+INC-001,2026-09-08T08:30:00-04:00,2026-09-08T13:40:00-04:00,SYS-01,Medium,Increased API 5xx responses after rollout,Rolled back release,Confirmed,Intermittent errors for subset of tenants,PM-001
+INC-002,2026-09-21T15:10:00-04:00,,SYS-06,High,Monitoring alert for unexpectedly public staging storage configuration,Investigation ongoing at snapshot,Unconfirmed,No confirmed access or disclosure,

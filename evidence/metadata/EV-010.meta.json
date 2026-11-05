@@ -1,0 +1,21 @@
+{
+  "evidence_id": "EV-010",
+  "title": "Restore Tests",
+  "label": "SIMULATED — FICTIONAL DATA — NOT FROM A LIVE SYSTEM",
+  "synthetic_data": true,
+  "source_type": "Synthetic export",
+  "source_system_id": "SYS-11",
+  "owner_st_id": "ST-008",
+  "snapshot_id": "BASE-20260930",
+  "observed_at": "2026-09-30T17:00:00-04:00",
+  "generated_at": "2026-11-05T06:52:26+00:00",
+  "collected_at": "2026-11-05T06:52:26+00:00",
+  "period_start": "2026-09-01",
+  "period_end": "2026-09-30",
+  "file_path": "evidence/baseline/restore_tests.csv",
+  "sha256": "933839750a7186f6c1b2ac2c2ebd90d40a819933c6a3964d104d3d1718b2e9ab",
+  "classification": "Confidential",
+  "linked_control_ids": [],
+  "linked_test_ids": [],
+  "limitations": "Fictional scenario; source record only; no control-test conclusions. For event rows, use row-level timestamps."
+}

@@ -1,0 +1,7 @@
+config_id,system_id,resource_name,resource_type,public_access,encryption_at_rest,logging_enabled,region,observed_at,config_export_ref
+GCP-001,SYS-06,mbf-recon-archive,storage-bucket,false,true,true,northamerica-northeast2,2026-09-30T17:00:00-04:00,GCP-SNAPSHOT-001
+GCP-002,SYS-06,mbf-export-staging,storage-bucket,true,true,true,northamerica-northeast2,2026-09-30T17:00:00-04:00,GCP-SNAPSHOT-002
+GCP-003,SYS-04,mbf-primary-db,cloudsql-postgresql,false,true,true,northamerica-northeast2,2026-09-30T17:00:00-04:00,GCP-SNAPSHOT-003
+GCP-004,SYS-01,bridgeapi-service,cloud-run,false,true,true,northamerica-northeast2,2026-09-30T17:00:00-04:00,GCP-SNAPSHOT-004
+GCP-005,SYS-12,mbf-monitoring,logging,false,true,true,northamerica-northeast2,2026-09-30T17:00:00-04:00,GCP-SNAPSHOT-005
+GCP-006,SYS-11,mbf-backup,storage-bucket,false,true,true,northamerica-northeast1,2026-09-30T17:00:00-04:00,GCP-SNAPSHOT-006

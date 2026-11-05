@@ -1,0 +1,86 @@
+employee_id,display_name,department,employment_status,hire_date,termination_effective_at,manager_employee_id,source_record_id
+EMP-001,Morgan Chen,Executive,Active,2022-02-01,,,HR-0001
+EMP-002,Avery Patel,Technology,Active,2023-03-01,,,HR-0002
+EMP-003,Jordan Okafor,Security,Active,2024-04-01,,,HR-0003
+EMP-004,Taylor Singh,IT,Active,2025-05-01,,,HR-0004
+EMP-005,Riley Martin,Product,Active,2021-06-01,,,HR-0005
+EMP-006,Casey Laurent,Compliance,Active,2022-07-01,,,HR-0006
+EMP-007,Samira Bello,Vendor Operations,Active,2023-08-01,,,HR-0007
+EMP-008,Alex Rivera,Engineering,Active,2024-01-01,,,HR-0008
+EMP-009,Nina Brooks,Finance,Active,2025-02-01,,,HR-0009
+EMP-010,Fictional Employee 010,Customer Success,Active,2021-03-01,,EMP-003,HR-0010
+EMP-011,Fictional Employee 011,IT,Active,2022-04-01,,EMP-004,HR-0011
+EMP-012,Fictional Employee 012,Finance,Active,2023-05-01,,EMP-005,HR-0012
+EMP-013,Fictional Employee 013,Security,Active,2024-06-01,,EMP-006,HR-0013
+EMP-014,Fictional Employee 014,Engineering,Active,2025-07-01,,EMP-007,HR-0014
+EMP-015,Fictional Employee 015,Product,Active,2021-08-01,,EMP-008,HR-0015
+EMP-016,Fictional Employee 016,Operations,Active,2022-01-01,,EMP-001,HR-0016
+EMP-017,Fictional Employee 017,Customer Success,Active,2023-02-01,,EMP-002,HR-0017
+EMP-018,Fictional Employee 018,IT,Active,2024-03-01,,EMP-003,HR-0018
+EMP-019,Fictional Employee 019,Finance,Active,2025-04-01,,EMP-004,HR-0019
+EMP-020,Fictional Employee 020,Security,Active,2021-05-01,,EMP-005,HR-0020
+EMP-021,Fictional Employee 021,Engineering,Active,2022-06-01,,EMP-006,HR-0021
+EMP-022,Fictional Employee 022,Product,Active,2023-07-01,,EMP-007,HR-0022
+EMP-023,Fictional Employee 023,Operations,Active,2024-08-01,,EMP-008,HR-0023
+EMP-024,Fictional Employee 024,Customer Success,Terminated,2025-01-01,2026-09-12T16:00:00-04:00,EMP-001,HR-0024
+EMP-025,Fictional Employee 025,IT,Active,2021-02-01,,EMP-002,HR-0025
+EMP-026,Fictional Employee 026,Finance,Active,2022-03-01,,EMP-003,HR-0026
+EMP-027,Fictional Employee 027,Security,Active,2023-04-01,,EMP-004,HR-0027
+EMP-028,Fictional Employee 028,Engineering,Active,2024-05-01,,EMP-005,HR-0028
+EMP-029,Fictional Employee 029,Product,Active,2025-06-01,,EMP-006,HR-0029
+EMP-030,Fictional Employee 030,Operations,Active,2021-07-01,,EMP-007,HR-0030
+EMP-031,Fictional Employee 031,Customer Success,Active,2022-08-01,,EMP-008,HR-0031
+EMP-032,Fictional Employee 032,IT,Active,2023-01-01,,EMP-001,HR-0032
+EMP-033,Fictional Employee 033,Finance,Active,2024-02-01,,EMP-002,HR-0033
+EMP-034,Fictional Employee 034,Security,Active,2025-03-01,,EMP-003,HR-0034
+EMP-035,Fictional Employee 035,Engineering,Active,2021-04-01,,EMP-004,HR-0035
+EMP-036,Fictional Employee 036,Product,Active,2022-05-01,,EMP-005,HR-0036
+EMP-037,Fictional Employee 037,Operations,Active,2023-06-01,,EMP-006,HR-0037
+EMP-038,Fictional Employee 038,Customer Success,Active,2024-07-01,,EMP-007,HR-0038
+EMP-039,Fictional Employee 039,IT,Active,2025-08-01,,EMP-008,HR-0039
+EMP-040,Fictional Employee 040,Finance,Active,2021-01-01,,EMP-001,HR-0040
+EMP-041,Fictional Employee 041,Security,Active,2022-02-01,,EMP-002,HR-0041
+EMP-042,Fictional Employee 042,Engineering,Active,2023-03-01,,EMP-003,HR-0042
+EMP-043,Fictional Employee 043,Product,Active,2024-04-01,,EMP-004,HR-0043
+EMP-044,Fictional Employee 044,Operations,Active,2025-05-01,,EMP-005,HR-0044
+EMP-045,Fictional Employee 045,Customer Success,Active,2021-06-01,,EMP-006,HR-0045
+EMP-046,Fictional Employee 046,IT,Active,2022-07-01,,EMP-007,HR-0046
+EMP-047,Fictional Employee 047,Finance,Terminated,2023-08-01,2026-09-26T17:00:00-04:00,EMP-008,HR-0047
+EMP-048,Fictional Employee 048,Security,Active,2024-01-01,,EMP-001,HR-0048
+EMP-049,Fictional Employee 049,Engineering,Active,2025-02-01,,EMP-002,HR-0049
+EMP-050,Fictional Employee 050,Product,Active,2021-03-01,,EMP-003,HR-0050
+EMP-051,Fictional Employee 051,Operations,Active,2022-04-01,,EMP-004,HR-0051
+EMP-052,Fictional Employee 052,Customer Success,Active,2023-05-01,,EMP-005,HR-0052
+EMP-053,Fictional Employee 053,IT,Active,2024-06-01,,EMP-006,HR-0053
+EMP-054,Fictional Employee 054,Finance,Active,2025-07-01,,EMP-007,HR-0054
+EMP-055,Fictional Employee 055,Security,Active,2021-08-01,,EMP-008,HR-0055
+EMP-056,Fictional Employee 056,Engineering,Active,2022-01-01,,EMP-001,HR-0056
+EMP-057,Fictional Employee 057,Product,Active,2023-02-01,,EMP-002,HR-0057
+EMP-058,Fictional Employee 058,Operations,Active,2024-03-01,,EMP-003,HR-0058
+EMP-059,Fictional Employee 059,Customer Success,Active,2025-04-01,,EMP-004,HR-0059
+EMP-060,Fictional Employee 060,IT,Active,2021-05-01,,EMP-005,HR-0060
+EMP-061,Fictional Employee 061,Finance,Active,2022-06-01,,EMP-006,HR-0061
+EMP-062,Fictional Employee 062,Security,Active,2023-07-01,,EMP-007,HR-0062
+EMP-063,Fictional Employee 063,Engineering,Terminated,2024-08-01,2026-09-30T12:00:00-04:00,EMP-008,HR-0063
+EMP-064,Fictional Employee 064,Product,Active,2025-01-01,,EMP-001,HR-0064
+EMP-065,Fictional Employee 065,Operations,Active,2021-02-01,,EMP-002,HR-0065
+EMP-066,Fictional Employee 066,Customer Success,Active,2022-03-01,,EMP-003,HR-0066
+EMP-067,Fictional Employee 067,IT,Active,2023-04-01,,EMP-004,HR-0067
+EMP-068,Fictional Employee 068,Finance,Active,2024-05-01,,EMP-005,HR-0068
+EMP-069,Fictional Employee 069,Security,Active,2025-06-01,,EMP-006,HR-0069
+EMP-070,Fictional Employee 070,Engineering,Active,2021-07-01,,EMP-007,HR-0070
+EMP-071,Fictional Employee 071,Product,Active,2022-08-01,,EMP-008,HR-0071
+EMP-072,Fictional Employee 072,Operations,Active,2023-01-01,,EMP-001,HR-0072
+EMP-073,Fictional Employee 073,Customer Success,Active,2024-02-01,,EMP-002,HR-0073
+EMP-074,Fictional Employee 074,IT,Active,2025-03-01,,EMP-003,HR-0074
+EMP-075,Fictional Employee 075,Finance,Active,2021-04-01,,EMP-004,HR-0075
+EMP-076,Fictional Employee 076,Security,Active,2022-05-01,,EMP-005,HR-0076
+EMP-077,Fictional Employee 077,Engineering,Active,2023-06-01,,EMP-006,HR-0077
+EMP-078,Fictional Employee 078,Product,Active,2024-07-01,,EMP-007,HR-0078
+EMP-079,Fictional Employee 079,Operations,Active,2025-08-01,,EMP-008,HR-0079
+EMP-080,Fictional Employee 080,Customer Success,Active,2021-01-01,,EMP-001,HR-0080
+EMP-081,Fictional Employee 081,IT,Active,2022-02-01,,EMP-002,HR-0081
+EMP-082,Fictional Employee 082,Finance,Terminated,2023-03-01,2026-09-29T15:00:00-04:00,EMP-003,HR-0082
+EMP-083,Fictional Employee 083,Security,Active,2024-04-01,,EMP-004,HR-0083
+EMP-084,Fictional Employee 084,Engineering,Active,2025-05-01,,EMP-005,HR-0084
+EMP-085,Fictional Employee 085,Product,Active,2021-06-01,,EMP-006,HR-0085

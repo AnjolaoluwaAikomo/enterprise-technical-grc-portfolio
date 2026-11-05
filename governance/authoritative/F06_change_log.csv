@@ -1,0 +1,2 @@
+change_id,version,recorded_at,snapshot_id,change_type,description,source_evidence_id
+CL-001,1.0,2026-11-05T06:52:26+00:00,BASE-20260930,Freeze,Initial immutable synthetic baseline; no remediation applied,

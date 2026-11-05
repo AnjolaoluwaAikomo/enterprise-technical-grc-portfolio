@@ -1,0 +1,4 @@
+document_id,vendor_id,vendor_name,document_type,document_date,valid_through,status,description,source_ref
+VDOC-001,VEN-001,CedarPay Processing Ltd.,Security Questionnaire,2026-08-12,2027-08-12,Received,Self-reported control questionnaire; not independently attested,CEDAR-SECQ-2026
+VDOC-002,VEN-001,CedarPay Processing Ltd.,Incident Notification Addendum,2026-05-01,2027-05-01,Received,Fictional contract addendum; legal review pending,CEDAR-CONTRACT-2026
+VDOC-003,VEN-001,CedarPay Processing Ltd.,Business Continuity Summary,2025-07-01,2026-07-01,Expired,Self-reported BCP summary; not an audit opinion,CEDAR-BCP-2025
