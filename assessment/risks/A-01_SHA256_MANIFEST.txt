@@ -1,0 +1,6 @@
+A-01 file integrity manifest (SHA-256)
+SIMULATED — FICTIONAL DATA
+5acf72b557ce94f1038c4ca249327ae4787d41fcc2ae37c52e98098d577e0f87  A-01_MapleBridge_Risk_Assessment_Methodology_v1.0.docx
+09057da004d1d66cce2bd1c8e1789243d9c945509790c6fc66e4dc217af12ef5  A-01_MapleBridge_Risk_Assessment_Methodology_v1.0.pdf
+75556f78359d0681f029ef5eb23a3185cceec7b4657dfa23ec9931d588f79eb3  A-01_MapleBridge_Risk_Scoring_Rubric_v1.0.csv
+f5273eff83a3b53517d37a851e3257dff6eb8f025cd93d6bbb1a0357b6e933e9  A-01_Rubric_README_v1.0.md
