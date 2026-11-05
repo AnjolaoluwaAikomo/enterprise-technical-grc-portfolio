@@ -1,0 +1,15 @@
+rubric_version,record_type,level,label,criterion,score_min,score_max,response
+1.0,likelihood,1,Rare,Exceptional multiple independent conditions,,,
+1.0,likelihood,2,Unlikely,Plausible but unusual,,,
+1.0,likelihood,3,Possible,Credible in normal operations,,,
+1.0,likelihood,4,Likely,Substantial exposure or repeated weaknesses,,,
+1.0,likelihood,5,Almost certain,Ongoing or recurrent scenario,,,
+1.0,impact,1,Negligible,<15 min outage; <CAD 5k,,,
+1.0,impact,2,Minor,15 min to <2h; CAD 5k to <25k,,,
+1.0,impact,3,Material,2h to <8h; CAD 25k to <100k,,,
+1.0,impact,4,Severe,8h to <24h; CAD 100k to <500k,,,
+1.0,impact,5,Critical,>=24h; >=CAD 500k,,,
+1.0,band,,Low,L times I; ordinal qualitative ranking only,1,4,Quarterly review
+1.0,band,,Moderate,L times I; ordinal qualitative ranking only,5,9,Decision within 60 days
+1.0,band,,High,L times I; ordinal qualitative ranking only,10,16,Escalate; decision within 30 days
+1.0,band,,Critical,L times I; ordinal qualitative ranking only,17,25,Immediate escalation; decision within 5 business days
