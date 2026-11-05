@@ -1,0 +1,21 @@
+{
+  "evidence_id": "EV-004",
+  "title": "Privileged Role Assignments",
+  "label": "SIMULATED — FICTIONAL DATA — NOT FROM A LIVE SYSTEM",
+  "synthetic_data": true,
+  "source_type": "Synthetic export",
+  "source_system_id": "SYS-07",
+  "owner_st_id": "ST-004",
+  "snapshot_id": "BASE-20260930",
+  "observed_at": "2026-09-30T17:00:00-04:00",
+  "generated_at": "2026-11-05T06:52:26+00:00",
+  "collected_at": "2026-11-05T06:52:26+00:00",
+  "period_start": "2026-09-01",
+  "period_end": "2026-09-30",
+  "file_path": "evidence/baseline/privileged_role_assignments.csv",
+  "sha256": "a3792a617fd6fe007fe7ea6a6657def7b55224bdf2418c24eb709104568c88f0",
+  "classification": "Restricted",
+  "linked_control_ids": [],
+  "linked_test_ids": [],
+  "limitations": "Fictional scenario; source record only; no control-test conclusions. For event rows, use row-level timestamps."
+}

@@ -1,0 +1,21 @@
+{
+  "evidence_id": "EV-008",
+  "title": "Cloud Configurations",
+  "label": "SIMULATED — FICTIONAL DATA — NOT FROM A LIVE SYSTEM",
+  "synthetic_data": true,
+  "source_type": "Synthetic export",
+  "source_system_id": "SYS-05",
+  "owner_st_id": "ST-008",
+  "snapshot_id": "BASE-20260930",
+  "observed_at": "2026-09-30T17:00:00-04:00",
+  "generated_at": "2026-11-05T06:52:26+00:00",
+  "collected_at": "2026-11-05T06:52:26+00:00",
+  "period_start": "2026-09-01",
+  "period_end": "2026-09-30",
+  "file_path": "evidence/baseline/cloud_configurations.csv",
+  "sha256": "bfcf23777afa9b6abf22b58005cdec35f070e06cec1a768d79b917c82be76ecc",
+  "classification": "Restricted",
+  "linked_control_ids": [],
+  "linked_test_ids": [],
+  "limitations": "Fictional scenario; source record only; no control-test conclusions. For event rows, use row-level timestamps."
+}

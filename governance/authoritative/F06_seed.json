@@ -1,0 +1,8 @@
+{
+  "seed": 4062026,
+  "method": "Deterministic scenario construction; fixed records and seeded random module",
+  "snapshot_id": "BASE-20260930",
+  "observed_at": "2026-09-30T17:00:00-04:00",
+  "generated_at": "2026-11-05T06:52:26+00:00",
+  "synthetic": true
+}

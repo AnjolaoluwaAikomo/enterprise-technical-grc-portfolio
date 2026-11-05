@@ -1,0 +1,3 @@
+restore_test_id,system_id,tested_at,outcome,recovery_time_minutes,approved_by_st_id,report_ref
+RST-001,SYS-04,2026-06-20T10:00:00-04:00,Succeeded,95,ST-08,REC-2026-Q2
+RST-002,SYS-04,2026-09-23T10:00:00-04:00,Failed,,ST-08,REC-2026-Q3

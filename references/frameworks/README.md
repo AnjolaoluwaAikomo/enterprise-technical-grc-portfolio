@@ -1,0 +1,1 @@
+Consult governance/authoritative/F-05_MapleBridge_Framework_Source_Register_v1.0.xlsx for authoritative editions, official links, applicability and licensing. Do not redistribute copyrighted ISO/AICPA text.
